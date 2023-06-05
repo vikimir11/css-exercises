@@ -1,0 +1,20 @@
+/*For all odd numbers */
+
+.odd-numbers {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-text {
+    background-color:lightgreen;
+    font-weight: bold;
+}
